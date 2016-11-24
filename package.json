@@ -1,6 +1,6 @@
 {
   "name": "gulp-atom-bundle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Incremental bundles using browserify",
   "main": "index.js",
   "author": "Ricardo Casares",
