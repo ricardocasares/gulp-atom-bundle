@@ -7,9 +7,9 @@
   "license": "GPLv3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ricardocasares/gulp-atoms.git"
+    "url": "https://github.com/ricardocasares/gulp-atom-bundle.git"
   },
-  "bugs": "https://github.com/ricardocasares/gulp-atoms/issues",
+  "bugs": "https://github.com/ricardocasares/gulp-atom-bundle/issues",
   "dependencies": {
     "gulp-watchify": "^0.6.0",
     "watchify": "^3.7.0"
